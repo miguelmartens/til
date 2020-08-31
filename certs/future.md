@@ -1,4 +1,4 @@
-# List of Future Certification
+# List of Future Certifications
 
 ## Microsoft
 - Microsoft Certified: Azure Administrator Associate (AZ-104)
