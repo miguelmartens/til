@@ -1,4 +1,4 @@
-# List of Achieved Certification
+# List of Achieved Certifications
 ## Microsoft
 - Microsoft Certified Azure Fundamentals (AZ-900)
 
