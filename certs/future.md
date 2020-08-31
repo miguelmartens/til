@@ -16,6 +16,9 @@
 - HashiCorp Certified: Vault Associate
 - HashiCorp Certified: Consul Associate
 
+## AXELOS
+- PRINCE2® Foundation Certification
+
 ## Red Hat
 - Red Hat Certified Specialist in Ansible Automation (EX407)
 
@@ -24,3 +27,6 @@
 
 ## Puppet
 - Puppet Professional Certification (PPT206)
+
+## DASA
+- DASA DevOps Fundamentals
