@@ -8,9 +8,9 @@
 - AWS Certified Solutions Architect – Associate (SAA-C01)
 
 ## The Linux Foundation
-Certified Kubernetes Administrator (CKA)
-Certified Kubernetes Application Developer (CKAD)
-Linux Foundation Certified System Administrator (LFCS)
+- Certified Kubernetes Administrator (CKA)
+- Certified Kubernetes Application Developer (CKAD)
+- Linux Foundation Certified System Administrator (LFCS)
 
 ## HashiCorp
 - HashiCorp Certified: Vault Associate
