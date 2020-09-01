@@ -30,3 +30,6 @@
 
 ## DASA
 - DASA DevOps Fundamentals
+
+## Veeam
+- Veeam Certified Engineer (VMCE)
