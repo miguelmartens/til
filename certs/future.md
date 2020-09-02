@@ -32,4 +32,5 @@
 - DASA DevOps Fundamentals
 
 ## Veeam
+- Veeam Technical Sales Professional (VMTSP)
 - Veeam Certified Engineer (VMCE)
